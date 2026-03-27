@@ -1,2 +1,1 @@
-# loan-default-prediction-dl
-Deep learning project to predict loan default using an imbalanced financial dataset. Applied data preprocessing, feature scaling, and SMOTE for class imbalance, and built an Artificial Neural Network (ANN) using TensorFlow/Keras. Model evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
+This project predicts whether a loan applicant will default or not using a deep learning model. The project includes data preprocessing, exploratory data analysis, feature scaling, handling imbalanced data using SMOTE, and building an Artificial Neural Network (ANN) using TensorFlow/Keras. The model is evaluated using classification metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
